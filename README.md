@@ -1,12 +1,17 @@
 # Haram Kang
 
+---
+
 ### About Me
 
+
+---
 ### Prize & Job experience
 🏆  
 중앙대학교 데이터 학회 Dart-B 2기  
 중앙대학교 통계데이터사이언스 곽일엽 교수님 연구실 학부연구생  
 
+---
 ### Other experience
 ROTC 63기  
 중앙대 축구동아리 바스타드 (22.03 ~)  
