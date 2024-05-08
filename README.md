@@ -10,10 +10,10 @@
 ### Other experience
 ROTC 63기  
 중앙대 축구동아리 바스타드 (22.03 ~)  
-중앙대 축구동아리 바스타드 운영진 (23.03~24.02)  
+중앙대 축구동아리 바스타드 운영진 (23.03 ~ 24.02)  
 중앙대 응용통계학과 축구 동아리 (22.06 ~)  
 중앙대 응용통계학과 축구 동아리 주장 (23.06 ~)  
-중앙대 응용통계학과 밴드 동아리 크램 (23.09~24.02)  
+중앙대 응용통계학과 밴드 동아리 크램 (23.09 ~ 24.02)  
 
 <!--
 **haaraamk/haaraamk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
