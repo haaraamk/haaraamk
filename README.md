@@ -17,11 +17,13 @@
 ### Project
 1. 야생동물 감지 알고리즘
 2. Binary Prediction of Smoker Status using Bio-Signals
-3. Market Data Analysis
-4. Telecom Data Analysis
-5. Heart murmur detection
-6. 가정용 귀 내시경을 이용한 귀 질환 진단 서비스
-7. Rag와 거대 LLM을 이용한 개인 금융 AI 비서
+3. 데이터 안심구역 방문 및 토이 프로젝트 진행
+4. Market Data Analysis
+5. Telecom Data Analysis
+6. Heart murmur detection
+7. 야구 데이터 분석 프로젝트 : 한화 이글스의 부진 이유에 대한 정량적, 정성적 데이터 분석
+8. 가정용 귀 내시경을 이용한 귀 질환 진단 서비스
+9. Rag와 거대 LLM을 이용한 개인 금융 AI 비서
 
 ---
 ### Other experience
